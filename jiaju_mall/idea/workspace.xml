@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jiaju_mall:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a3cfbeb-677f-4261-a698-b7f56cefdc16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\program\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="278FHV5r1reuvPDJIKL5on27g2J" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/views/manage" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hspedu.furns.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jiaju_mall\web\views\manage" />
+      <recent name="D:\jiaju_mall\web\WEB-INF\lib" />
+      <recent name="D:\jiaju_mall\web\views\error" />
+      <recent name="D:\jiaju_mall\web\views\order" />
+      <recent name="D:\jiaju_mall\web\views\cart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.50">
+    <configuration name="HspTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.furns.test.HspTest" />
+      <module name="jiaju_mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.furns.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.furns.test.Temp" />
+      <module name="jiaju_mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.furns.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderDAOTest.saveOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiaju_mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.furns.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hspedu.furns.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.furns.test.OrderDAOTest" />
+      <option name="METHOD_NAME" value="saveOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderItemDAOTest.saveOrderItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiaju_mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.furns.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hspedu.furns.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.furns.test.OrderItemDAOTest" />
+      <option name="METHOD_NAME" value="saveOrderItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTest.saveOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiaju_mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.furns.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hspedu.furns.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.furns.test.OrderServiceTest" />
+      <option name="METHOD_NAME" value="saveOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/jiaju_mall/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="jiaju_mall:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jiaju_mall" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jiaju_mall" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="4820" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jiaju_mall:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HspTest" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="JUnit.OrderServiceTest.saveOrder" />
+        <item itemvalue="JUnit.OrderItemDAOTest.saveOrderItem" />
+        <item itemvalue="JUnit.OrderDAOTest.saveOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3cfbeb-677f-4261-a698-b7f56cefdc16" name="Default Changelist" comment="" />
+      <created>1648693719850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648693719850</updated>
+      <workItem from="1648693720907" duration="4395000" />
+      <workItem from="1648717424091" duration="8453000" />
+      <workItem from="1648790212182" duration="116000" />
+      <workItem from="1648794521525" duration="3955000" />
+      <workItem from="1648800085782" duration="2469000" />
+      <workItem from="1648806595250" duration="4830000" />
+      <workItem from="1648915158829" duration="174000" />
+      <workItem from="1649002378401" duration="8000" />
+      <workItem from="1649007629019" duration="1000" />
+      <workItem from="1649008385627" duration="3000" />
+      <workItem from="1649035320188" duration="7876000" />
+      <workItem from="1649061573806" duration="8095000" />
+      <workItem from="1649083983048" duration="1768000" />
+      <workItem from="1649086676609" duration="35000" />
+      <workItem from="1649126375176" duration="11934000" />
+      <workItem from="1649253182264" duration="607000" />
+      <workItem from="1649294716015" duration="6438000" />
+      <workItem from="1649340491746" duration="8000" />
+      <workItem from="1649384213369" duration="18075000" />
+      <workItem from="1649429316503" duration="8000" />
+      <workItem from="1649470198074" duration="4933000" />
+      <workItem from="1649480359469" duration="5019000" />
+      <workItem from="1649560425868" duration="1000" />
+      <workItem from="1649603349632" duration="31000" />
+      <workItem from="1649640407438" duration="7734000" />
+      <workItem from="1649732412504" duration="8033000" />
+      <workItem from="1649767720106" duration="238000" />
+      <workItem from="1649898983572" duration="13302000" />
+      <workItem from="1649954984828" duration="434000" />
+      <workItem from="1649996043491" duration="18077000" />
+      <workItem from="1650078918910" duration="1196000" />
+      <workItem from="1650216523202" duration="1000" />
+      <workItem from="1650244617163" duration="9878000" />
+      <workItem from="1650337699935" duration="11422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649474118928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1649474118928" />
+    <state x="446" y="29" key="#com.intellij.ide.util.MemberChooser" timestamp="1650011269183">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="29" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1650011269183" />
+    <state x="260" y="23" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1648693730405">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="260" y="23" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689@0.0.1280.689" timestamp="1648693730405" />
+    <state x="396" y="45" key="#xdebugger.evaluate" timestamp="1649482514206">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="396" y="45" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1649482514206" />
+    <state width="408" height="438" key="DebuggerActiveHint" timestamp="1648812672784">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="408" height="438" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1648812672784" />
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1649767935966">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1649767935966" />
+    <state width="1159" height="2" key="GridCell.Tab.0.bottom" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.0.center" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.0.left" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.0.right" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.1.bottom" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.1.center" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.1.left" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.1.right" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.2.bottom" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.2.center" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.2.left" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="2" key="GridCell.Tab.2.right" timestamp="1650363855967">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1650363855967" />
+    <state width="1159" height="258" key="GridCell.Tab.3.bottom" timestamp="1649482690640">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="258" key="GridCell.Tab.3.bottom/0.0.1280.689@0.0.1280.689" timestamp="1649482690640" />
+    <state width="1159" height="258" key="GridCell.Tab.3.center" timestamp="1649482690640">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="258" key="GridCell.Tab.3.center/0.0.1280.689@0.0.1280.689" timestamp="1649482690640" />
+    <state width="1159" height="258" key="GridCell.Tab.3.left" timestamp="1649482690640">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="258" key="GridCell.Tab.3.left/0.0.1280.689@0.0.1280.689" timestamp="1649482690640" />
+    <state width="1159" height="258" key="GridCell.Tab.3.right" timestamp="1649482690640">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1159" height="258" key="GridCell.Tab.3.right/0.0.1280.689@0.0.1280.689" timestamp="1649482690640" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1649045120154">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1649045120154" />
+    <state x="349" y="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1648720495048">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="349" y="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1648720495048" />
+    <state x="338" y="77" width="717" height="540" key="find.popup" timestamp="1649737741137">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="338" y="77" width="717" height="540" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1649737741137" />
+    <state x="47" y="128" width="1224" height="474" key="new project wizard" timestamp="1649941861008">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="47" y="128" width="1224" height="474" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1649941861008" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1649064247828">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1649064247828" />
+  </component>
+</project>
